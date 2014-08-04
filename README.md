@@ -6,5 +6,4 @@ Excel plugin to post any table to remote URL
 How to use
 ----------
 
-<iframe width="420" height="315" src="//www.youtube.com/embed/cENfLmC6dlc" frameborder="0" allowfullscreen></iframe>
-
+![Excel Post Json Add In](http://img.youtube.com/vi/cENfLmC6dlc/0.jpg)](http://www.youtube.com/watch?v=cENfLmC6dlc)
