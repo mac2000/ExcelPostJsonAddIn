@@ -3,6 +3,8 @@ Excel Post Json Add In
 
 Excel plugin to post any table to remote URL
 
+https://github.com/mac2000/ExcelPostJsonAddIn/raw/gh-pages/publish.zip - binaries
+
 How to use
 ----------
 
